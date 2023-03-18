@@ -1,0 +1,5 @@
+Diurnal correction for 11209 magnetic data points. Rover mean pre-correction: 52169.6. Rover mean post-correction: 52169.59813542688. 
+WGS84 to UTM coordinate transform with zone 21 T. 
+No line intersections identified. 
+All bins have at least one data point.There are 726 bins.The Mean number of data points per bin is approximately 15.4. 
+1299 values assigned to NaN grid points after 90 iterations.

@@ -1,0 +1,10 @@
+The full IAM SE Ext dataset for testing.
+
+There are all sorts of problems in this dataset, by completing this test EXERO can handle them all. 
+
+1) There are short, erroneous repeat lines in 0908.
+2) There is only one line defined in 0908 Cor.
+3) 0908 For is in CSV format from an excel workbook.
+
+Report
+2021/02/25: All looks well, but the last line before TIE didn't label (UNRESOLVED).

@@ -1,0 +1,12 @@
+Python version 3.6.11
+
+Packages used thus far:
+re
+operator
+time
+sys
+numpy
+os
+datetime
+shutil
+watchdog (pip install watchdog)

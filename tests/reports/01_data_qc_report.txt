@@ -1,0 +1,10 @@
+There are 1 magnetic data points with an insufficient data quality measurement for bas. 
+Spike interpolation for bas. 0 data spikes are interpolated after 1 iteration(s). 
+
+There are 28 magnetic data points with an insufficient data quality measurement for rov. 
+2 duplicate line(s) and 0 line segment(s) found. 222 data points from deleted identified duplicate/erroneous lines. 
+Savitzky-Golay elev smoothing completed for rov. 
+Relocation for data points [x,y] subject to GPS noise. 49 data points are relocated after 4 iterations. 
+Data acquisition statistics. Line km acquired: 2.179, time [H:M:S] spent acquiring data: 03:17:57, distance [km] covered: 6.026, elevation [m] gained: 159. 
+
+Signal strength for all VLF data points is satisfactory. 
