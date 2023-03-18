@@ -1,8 +1,10 @@
 This is an EXERO Geophysics rapid processing algoirthm for ground magnetic and VLF data.
 
+I built this project in the winter of 2021. It was never complete, but is in working order. 
+
 MAG/VLF DATA DICTIONARY
 
-lat - latitude
+lat - latitude </br>
 lon - longitude
 elevation - GPS MSL
 nT - Magnetometer Total Field
